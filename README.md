@@ -17,4 +17,6 @@ To run the tests you can either open VehicleFactoryTest.java and click the play 
 gradle test
 ``` 
 
+You can see the simple factory solution by checking out the branch `solution`.
+
 BONUS: Can you refactor this challenge to NOT violate the Open Close Principle?
